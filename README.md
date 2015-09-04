@@ -1,0 +1,1 @@
+THe Day of Sagittarius III, as seen in Suzumiya Haruhi no Yuutsu

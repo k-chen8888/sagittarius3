@@ -1,0 +1,32 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+canvas{
+	outline: 0;
+	border: 1px solid #000;
+}
+
+#gamescreen {
+	position: relative;
+	top: 8px;
+	width: 1175px;
+	height: 650px;
+	margin-left: auto;
+	margin-right: 100;
+}
+
+#gamescreen canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 0;
+}
+
+#footer{
+	float: bottom;
+	padding-left: 3%;
+	padding-right: 3%;
+}
