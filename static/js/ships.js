@@ -35,7 +35,7 @@ function Squadron(xStart, yStart, sightRange, ID, size){
 		
 		// Fails if removeAmount is greater than or equal to the size of the current squadron
 		if( removeAmount < exports.size ){
-			player.standardShips.push(new Squadron(xStart + xOffset, yStart + yOffset, new Standard(), player);
+			player.standardShips.push(new Squadron(xStart + xOffset, yStart + yOffset, new Standard(), player));
 		} else {
 			console.log("Not enough ships to make specified squadron.");
 		}
